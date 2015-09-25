@@ -1,0 +1,14 @@
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+    <runtime xdt:Transform="InsertIfMissing" >
+		<assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+			<dependentAssembly xdt:Transform="Insert">
+				<assemblyIdentity name="AutoMapper" publicKeyToken="null" />
+				<codeBase version="3.0.0.0" href="Assemblies\AutoMapper\AutoMapper.Umbraco.dll" />
+			</dependentAssembly>
+			<dependentAssembly xdt:Transform="Insert">
+				<assemblyIdentity name="AutoMapper.Net4" publicKeyToken="null" />
+				<codeBase version="3.0.0.0" href="Assemblies\AutoMapper\AutoMapper.Net4.Umbraco.dll" />
+			</dependentAssembly>
+		</assemblyBinding>
+	</runtime>
+</configuration>

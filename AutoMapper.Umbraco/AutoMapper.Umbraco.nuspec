@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>automapper.umbraco</id>
+		<version>3.0.0.0</version>
+        <authors>Jimmy Bogard</authors>
+        <owners>Jimmy Bogard</owners>
+        <licenseUrl>https://github.com/AutoMapper/AutoMapper/blob/master/LICENSE.txt</licenseUrl>
+        <projectUrl>http://automapper.org</projectUrl>
+        <iconUrl>https://s3.amazonaws.com/automapper/icon.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Automapper for umbraco</description>
+	</metadata>
+</package>
