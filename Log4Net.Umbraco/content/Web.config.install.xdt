@@ -1,0 +1,10 @@
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+    <runtime xdt:Transform="InsertIfMissing" >
+		<assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+			<dependentAssembly xdt:Transform="Insert">
+				<assemblyIdentity name="log4net" publicKeyToken="null"/>
+				<codeBase version="1.2.11.0" href="Assemblies\log4net\log4net.umbraco.dll"/>
+			</dependentAssembly>
+		</assemblyBinding>
+	</runtime>
+</configuration>

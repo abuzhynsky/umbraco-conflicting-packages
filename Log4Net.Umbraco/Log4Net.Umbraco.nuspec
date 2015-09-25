@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>log4net.umbraco</id>
+		<version>2.0.0.0</version>
+		<title>Log4Net.Umbraco</title>
+		<authors>Apache Software Foundation</authors>
+		<owners>Apache Software Foundation</owners>
+		<projectUrl>http://logging.apache.org/log4net/</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Unsigned log4net build used by umbraco.</description>
+		<tags>logging log tracing logfiles</tags>
+	</metadata>
+</package>
